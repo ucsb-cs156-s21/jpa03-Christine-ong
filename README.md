@@ -7,7 +7,7 @@ On Heroku: https://jpa03-christine-ong.herokuapp.com/
 
 On Codecov: https://app.codecov.io/gh/ucsb-cs156-s21/jpa03-Christine-ong
 
-[![codecov](https://jpa03-christine-ong.herokuapp.com/branch/main/graph/badge.svg)](https://jpa03-christine-ong.herokuapp.com)
+[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-Christine-ong/branch/main/graph/badge.svg?token=prc5BUxSVI)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-Christine-ong)
 
 
 ## Integrations 
