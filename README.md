@@ -10,7 +10,7 @@ On Codecov: https://app.codecov.io/gh/ucsb-cs156-s21/jpa03-Christine-ong
 [![codecov](https://jpa03-christine-ong.herokuapp.com/branch/main/graph/badge.svg)](https://jpa03-christine-ong.herokuapp.com)
 
 
-## Integrations
+## Integrations 
 
 * The npm package `prettier` is used to implement a pre-commit hook that formats JavaScript code.  See: [docs/prettier.md](./docs/prettier.md) for more information.
 
